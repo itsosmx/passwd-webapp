@@ -1,9 +1,11 @@
 import React from "react";
 import logo from "../../assets/logo.png";
+import { Container } from "./styled";
 export default function Home() {
   return (
-    <div>
+    <Container>
       <img src={logo} alt="" />
-    </div>
+      <h1>Passwd</h1>
+    </Container>
   );
 }
