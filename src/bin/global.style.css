@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Damion&display=swap');
+
+:root {
+  --ff-Poppins: 'Poppins', sans-serif;
+  --ff-Pacifico: 'Damion', cursive;
+  --c-primary: #171721;
+  --c-primary-light: #1e1e2b;
+  --c-secondary: #ea2e32;
+  --c-gray: #56565f;
+  --c-gray-2: #9b9d9f;
+  --c-light-gray: rgba(255, 255, 255, .7);
+  --c-white: #fff;
+  --c-dark-red: #331f2c;
+  --c-green: #51bd45;
+  --c-dark-green: #21331f;
+  --c-blue: #1877f2;
+  /* --c-primary-light: #58588f; */
+  --c-gold: #eaa92e;
+  --c-dark-gold: #332c2c;
+  --c-purple: #8847ff;
+}
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+body {
+  margin: 0;
+  color: #171721;
+  font-family: 'Poppins', sans-serif;
+}
