@@ -8,7 +8,7 @@ export default function Privacy() {
       <div>
         <h2>Privacy Policy</h2>
         <p>
-          OSMX built the Passwd app as a Free app. This SERVICE is provided by
+          OSMX built the Ornn app as a Free app. This SERVICE is provided by
           OSMX at no cost and is intended for use as is. This page is used to
           inform visitors regarding my policies with the collection, use, and
           disclosure of Personal Information if anyone decided to use my
@@ -18,7 +18,7 @@ export default function Privacy() {
           improving the Service. I will not use or share your information with
           anyone except as described in this Privacy Policy. The terms used in
           this Privacy Policy have the same meanings as in our Terms and
-          Conditions, which are accessible at Passwd unless otherwise defined in
+          Conditions, which are accessible at Ornn unless otherwise defined in
           this Privacy Policy.
         </p>
         <section>

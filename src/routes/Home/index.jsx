@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <Container>
       <img src={logo} alt="" />
-      <h1>Passwd</h1>
+      <h1>Ornn</h1>
     </Container>
   );
 }
