@@ -5,6 +5,9 @@ export const Container = styled(Cont)`
   margin: 1rem;
   
   
+  a {
+    color: var(--c-secondary);
+  }
   section {
     margin-left: 1rem;
   }
